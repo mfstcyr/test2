@@ -1,0 +1,9 @@
+ # Site settings
+title: Pensée algorithmique
+author: 
+  name: Marie-Frédérick
+  email: marie-frederick.st-cyr@usherbrooke.ca
+description: "Réflexion sur la pensée algorithmique"
+
+# Build settings
+remote_theme: jekyll/minima
