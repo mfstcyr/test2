@@ -1,6 +1,6 @@
 ---
 layout: page
-tite: about2
+title: about2
 ---
 
 Je me présente.
