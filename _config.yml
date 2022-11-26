@@ -7,3 +7,8 @@ description: "Réflexion sur la pensée algorithmique"
 
 # Build settings
 remote_theme: jekyll/minima
+
+#menu
+menu:
+  Works: /Tâches
+  About: /À propos
