@@ -10,5 +10,5 @@ remote_theme: jekyll/minima
 
 #menu
 menu:
-  Works: /Tâches
-  About: /À propos
+  Works: /Works
+  About: /About
